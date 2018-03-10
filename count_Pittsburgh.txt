@@ -1,0 +1,222 @@
+Drugstores:1
+Amusement Parks:1
+Arabian:1
+Churches:1
+Poutineries:1
+Teppanyaki:1
+Pretzels:1
+Speakeasies:1
+Mags:1
+Macarons:1
+Fondue:1
+Cantonese:1
+Falafel:1
+Laser Tag:1
+Beauty & Spas:1
+Airport Shuttles:1
+Antiques:1
+Pan Asian:1
+Do-It-Yourself Food:1
+Hawaiian:1
+Airports:1
+Uzbek:1
+CSA:1
+Museums:1
+Farmers Market:1
+Limos:1
+Hot Pot:1
+Tours:1
+Health Markets:1
+Books:1
+Wraps:1
+Cupcakes:1
+Live/Raw Food:1
+Bangladeshi:1
+Empanadas:1
+Transportation:1
+Persian/Iranian:1
+Russian:1
+Music & Video:1
+Car Dealers:1
+Leisure Centers:1
+Bookstores:1
+Taxis:1
+Smokehouse:1
+Golf:1
+Chocolatiers & Shops:1
+Botanical Gardens:1
+Laotian:1
+Real Estate Agents:1
+Waffles:1
+Wine Tours:1
+Social Clubs:1
+Venezuelan:1
+Colombian:1
+Pool Halls:1
+Country Clubs:1
+Florists:1
+Hair Salons:1
+Malaysian:1
+Flowers & Gifts:1
+Arts & Crafts:1
+Portuguese:1
+Apartments:1
+Festivals:1
+Community Service/Non-Profit:1
+Bistros:2
+Gelato:2
+Bowling:2
+Bed & Breakfast:2
+Internet Cafes:2
+Gas & Service Stations:2
+Jazz & Blues:2
+Argentine:2
+Burmese:2
+Wineries:2
+African:2
+Art Galleries:2
+Ethiopian:2
+Chicken Shop:2
+Brazilian:2
+Wedding Planning:2
+Hungarian:2
+Brasseries:2
+Tacos:2
+Food Court:2
+Seafood Markets:2
+Religious Organizations:2
+Kosher:2
+Beer Gardens:2
+Fruits & Veggies:2
+Mongolian:2
+Basque:2
+Donuts:2
+Champagne Bars:2
+Home Services:2
+Filipino:2
+Egyptian:2
+Himalayan/Nepalese:2
+Real Estate:2
+Local Services:2
+British:2
+Casinos:2
+Arcades:2
+Cafeteria:2
+Whiskey Bars:3
+Pasta Shops:3
+Moroccan:3
+Cajun/Creole:3
+Automotive:3
+Dim Sum:3
+Gay Bars:3
+Party & Event Planning:3
+Butcher:3
+Cambodian:3
+Active Life:4
+Cheesesteaks:4
+Cuban:4
+Ramen:4
+Spanish:4
+Karaoke:5
+Hookah Bars:5
+German:5
+Peruvian:5
+Meat Shops:5
+Belgian:6
+Bubble Tea:6
+Fish & Chips:6
+Halal:6
+Dance Clubs:6
+Pakistani:6
+Breweries:6
+Modern European:6
+Irish:6
+Lebanese:6
+Polish:7
+Shopping:7
+Convenience Stores:7
+Street Vendors:8
+Southern:8
+Creperies:9
+Noodles:9
+Food Stands:9
+Szechuan:9
+Hotels:9
+Local Flavor:9
+Tea Rooms:10
+Venues & Event Spaces:10
+Taiwanese:10
+Imported Food:11
+Beer Bar:11
+Vietnamese:11
+Caribbean:12
+Tapas Bars:13
+Hotels & Travel:13
+Music Venues:13
+Tex-Mex:14
+Korean:14
+Tapas/Small Plates:15
+Juice Bars & Smoothies:15
+Grocery:15
+Comfort Food:15
+Turkish:16
+Gastropubs:16
+Ethnic Food:16
+Soul Food:16
+French:17
+Gluten-Free:18
+Food Trucks:18
+Buffets:19
+Latin American:19
+Dive Bars:20
+Ice Cream & Frozen Yogurt:23
+Vegan:24
+Arts & Entertainment:25
+Food Delivery Services:25
+Bagels:25
+Soup:25
+Beer:26
+Wine & Spirits:26
+Wine Bars:27
+Greek:30
+Desserts:31
+Indian:31
+Hot Dogs:32
+Bakeries:33
+Lounges:35
+Middle Eastern:35
+Vegetarian:38
+Specialty Food:38
+Cocktail Bars:41
+Asian Fusion:41
+Barbeque:42
+Steakhouses:43
+Pubs:45
+Thai:47
+Sports Bars:51
+Caterers:52
+Japanese:54
+Mediterranean:56
+Sushi Bars:61
+Salad:66
+Chicken Wings:71
+Coffee & Tea:71
+Seafood:71
+Delis:73
+Event Planning & Services:74
+Diners:74
+Cafes:98
+Mexican:103
+Chinese:117
+Breakfast & Brunch:134
+Burgers:135
+Fast Food:138
+Italian:189
+Sandwiches:261
+American (New):266
+American (Traditional):297
+Pizza:312
+Food:333
+Bars:344
+Nightlife:349
+Restaurants:1940
